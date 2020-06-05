@@ -20,7 +20,7 @@ Gem::Specification.new do |s|
 
   s.add_dependency 'ffi-compiler', '>= 1.0', '< 2.0'
 
-  s.add_development_dependency 'rake',  '~> 11.2'
+  s.add_development_dependency 'rake',  '~> 13'
   s.add_development_dependency 'rspec', '~> 3.5'
   s.add_development_dependency 'yard',  '~> 0.9'
   
